@@ -1,4 +1,4 @@
-### Atliq Hardware SQL Challenge
+### Atliq Hardware - SQL Challenge
 #### Domain: Consumer Goods
 #### Company Introduction:
 Atliq Hardware(fictional comapny) is a leading computer hardware producer in India and globally.
