@@ -1,4 +1,4 @@
-### Atliq Hardware - SQL Challenge
+### Consumer Goods Ad-Hoc Insights(SQL Project Challenge)
 #### Domain: Consumer Goods
 #### Problem Statement:
 Atliq Hardware(fictional comapny) is a leading computer hardware producer in India and globally.The management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director, wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct an SQL challenge that would help him understand both skills.
